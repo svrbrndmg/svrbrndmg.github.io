@@ -1,3 +1,9 @@
+---
+layout: post
+title: First blogpost!
+tag: Miscellaneous
+---
+
 ## First post o' mine!
 
 Hello, everyone, this is my first post. It's more of a test on if the github
