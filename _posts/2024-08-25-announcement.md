@@ -5,7 +5,6 @@ tag: Announcement
 ---
 
 ## Announcement of what I'll be using this blog for
-***
 
 Hey, all, like, 1 of you, just wanted to post an update to this blog clarifying
 what I'll use it for. You're likely gonna see three major types of post on here:
