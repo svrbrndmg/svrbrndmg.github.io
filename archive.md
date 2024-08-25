@@ -3,8 +3,6 @@ layout: page
 title: Blog Archive
 ---
 
-<h2>Archives</h2>
-<ul>
   {{'{'}}% for post in site.posts >}}
 
     {{'{'}}% unless post.next >}}
@@ -19,4 +17,6 @@ title: Blog Archive
 
     <li>{{'{'}}{{'{'}} post.date | date:"%b" }} <a href="{{'{'}}{{'{'}} post.url }}">{{'{'}}{{'{'}} post.title }}</a></li>
   {{'{'}}% endfor >}}
-</ul>
+
+
+
