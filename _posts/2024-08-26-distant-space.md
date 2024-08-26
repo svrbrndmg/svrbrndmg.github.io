@@ -6,13 +6,13 @@ tag: Wot I Thought
 
 # Wot I Thought: Distant Space
 
-| Table of Contents                 |
-| --------------------------------- |
-| 1. [Introduction](#part1)         |
-| 2. [Structure & Gameplay](#part2) |
-| 3. [Aesthetics](#part3)           |
-| 4. [The (Few) Negatives](#part4)  |
-| 5. [Conclusion](#part5)           |
+ Table of Contents                 
+ ---
+ 1. [Introduction](#part1)         
+ 2. [Structure & Gameplay](#part2) 
+ 3. [Aesthetics](#part3)           
+ 4. [The (Few) Negatives](#part4)  
+ 5. [Conclusion](#part5)           
 
 P.S. use the handy table above to skip to a section you want. :)
 
