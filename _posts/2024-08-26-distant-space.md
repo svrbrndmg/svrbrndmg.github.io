@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wot I Thought: Distant Space
-tag: Wot I Thought
+tag: Reviews
 ---
 
 # Wot I Thought: Distant Space
