@@ -33,21 +33,21 @@ this game is PISS-easy for 100% completion. There's achievements for beating eac
 Your goal is to exterminate each alien in every level, as they float down from the top of the screen, using your unlimited-fire left mouse button attack, and a limited right mouse button attack (which is never told to you that you can use). 
 Some levels introduce new aliens, so I think it'd be cool to talk about 'em all.
 
-![First enemy](assets/distantspace/firstenemydistantspace.png "First lil guy")
+![First enemy](/assets/distantspace/firstenemydistantspace.png "First lil guy")
 This guy right here is the first enemy you meet, and he's not very tough. He just shoots a straight line at you, which is highly avoidable.
 
-![Second enemy](assets/distantspace/secondenemydistantspace.png "Second lil guy hehe")
+![Second enemy](/assets/distantspace/secondenemydistantspace.png "Second lil guy hehe")
 This guy is shaped like a heart, aww!! He's a bit harder than the first enemy, shooting 2 bursts at once, but still very avoidable.
 
-![Third enemy](assets/distantspace/thirdenemydistantspace.png "Third guyyy")
+![Third enemy](/assets/distantspace/thirdenemydistantspace.png "Third guyyy")
 Umm... this guy... is... supposed to be... an ox skull?? Interesting design aside, this is the first enemy that can really trip you up in certain situations, shooting 3 bursts at once,
 one in front of him, and two diagonally to the right and left, covering a lot of ground. Still, not that bad.
 
-![Fourth enemy](assets/distantspace/fourthenemydistantspace.png "Fourth guy that guys")
+![Fourth enemy](/assets/distantspace/fourthenemydistantspace.png "Fourth guy that guys")
 This guy looks VERY similar to the first guy, (sometimes even leading to a mix-up) and he also shoots only one projectile, though this time it's bigger, looks like a ball and doesn't go forward, instead, 
 trying to target your position. Can trip you up, but if you're fast enough you can just move to another position where the ball isn't going.
 
-![Fifth enemy](assets/distantspace/fifthenemydistantspace.png "Fifth ggguy")
+![Fifth enemy](/assets/distantspace/fifthenemydistantspace.png "Fifth ggguy")
 Quite possibly the coolest guy so far. He shoots a homing missile of sorts that not only targets you like the ball when shot, but KEEPS hunting you, even if you've changed positions. 
 The missile does disappear at the edge of the screens, though.
 
