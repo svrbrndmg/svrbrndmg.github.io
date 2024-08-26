@@ -73,6 +73,7 @@ I had very few complaints while playing, so let's get 'em out quickly. First, ga
 - Also, the bosses had way more health than they should. First boss wasn't that bad, but the second and ESPECIALLY the third were slogs to play through. If reducing their health is off the table,
   (which fair, I guess, it's your game) then why not a health bar or AT LEAST some sort of state change like the alien ships slowly breaking down. Instead, the only way to know you're in a new phase
   is to look at what the boss is firing at the moment, and the only way to know how close you are to victory is... nothing. You can't. Bit scuffed.
+  
 Second, some visual stuff:
 - As I mentioned, the fact that the enemies and bosses are vector and have jagged edges while you are pixelated and square-looking is a missed opportunity.
 - Small thing, but the first and fourth enemy were super similar and I mixed them up a few times. Might just me having a skill issue though loool
