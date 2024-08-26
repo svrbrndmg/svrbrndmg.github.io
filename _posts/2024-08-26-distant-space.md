@@ -4,10 +4,6 @@ title: Wot I Thought - Distant Space
 tag: Reviews
 ---
 
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="logoidea.ico">
-</head>
-
 # Wot I Thought: Distant Space
 
  ### Table of Contents                 
