@@ -17,6 +17,8 @@ tag: Reviews
 
 P.S. use the handy table above to skip to a section you want. :)
 
+This article is around ***a ~6 minute read.***
+
 ## Part 1 - Introduction <a name='part1'></a>
 ---
 Distant Space is a TINY indie game by PixelMouse which emulates the 80's style of arcade game, especially shoot-'em-ups such as Galaga and the like. So tiny, in fact, that I 100%'ed it in 38 minutes. 
@@ -81,8 +83,10 @@ Second, some visual stuff:
 ## Part 5 - Conclusion <a name='part5'></a>
 ---
 gem gud :))..;;,
+
 No, but this game was genuinely a cool little experience and for free? Even better. It now no longer is, sadly, but I liked it and if you have the money I would recommend supporting the dev and their games. 
 (they have two other games as well, including a sequel to this one!) I think it was a pretty good topic for the first Wot I Thought.
 
 Aight, peace,
+
 /SvrBrnDmg
