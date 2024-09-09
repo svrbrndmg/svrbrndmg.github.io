@@ -15,7 +15,7 @@ This article is a ***~7 and a half minute read.***
 
 ## Part 1 - Introduction <a name='part1'></a>
 ---
-#### you can find this game [here](https://store.steampowered.com/app/963000/Frog_Detective_1_The_Haunted_Island/)
+#### you can find this game [here](https://store.steampowered.com/app/963000/Frog_Detective_1_The_Haunted_Island/), it is 45% off!
 
 Frog Detective is this wonderful trilogy of indie games by Grace Bruxner, an indie dev makin' games since 2016. You play as the lovable Frog Detective, the best detective in town! Well, second-best. He could never really compete with Lobster Cop, anyway. (that's a real plot point in the game btw see why I love it now??)
 His first game is The Haunted Island - A Frog Detective Game, where he is sent to an island in the middle of nowhere to investigate an alleged "ghost" that the "king" of the island, Martin the sloth has been hearing. Oh yeah, I forgot to mention, EVERYTHING IS ANIMALS in this game. All the characters, main or side. I love it. But let's not beat around the bush no more, shan't we?
@@ -63,7 +63,7 @@ There is very little explicitly "wrong" with Frog Detective's vision. Its execut
 
 That's all. That should probably tell you how good this game is. It makes few mistakes.
 
-## Part 7 - The Conclusion
+## Part 7 - The Conclusion <a name='part7'></a>
 ---
 What did we learn today? That frogs make for good detectives. No, but, I find it hard to put a bow on this review because I've already told you all about how good this game is, you've felt it (hopefully). But, if you may let me be pretentious for a second, (NO NO DON'T KICK ME OFF THE STAGE) I think there is something to learn from Frog Detective. Its wholesome theme and writing, along with its short length, provide the perfect length for not just children's games, but experimental games in general. I really hope to see more games like it, weird little indie games, about 1 hour long, that may do whatever they want with that time. But also, preferably, using that time to have goofy animals breakdancing all over the place. The willingness to be unabashedly "silly" is also brilliant. 
 
