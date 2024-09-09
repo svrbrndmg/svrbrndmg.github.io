@@ -2,7 +2,7 @@
 
 Like, frogs n' stuff, Scoob!
 
-This article is a ***~7 minute read.***
+This article is a ***~7 and a half minute read.***
 
 ### Table of Contents:
 1. [Introduction](#part1)
@@ -15,12 +15,17 @@ This article is a ***~7 minute read.***
 
 ## Part 1 - Introduction <a name='part1'></a>
 ---
+#### you can find this game [here](https://store.steampowered.com/app/963000/Frog_Detective_1_The_Haunted_Island/)
+
 Frog Detective is this wonderful trilogy of indie games by Grace Bruxner, an indie dev makin' games since 2016. You play as the lovable Frog Detective, the best detective in town! Well, second-best. He could never really compete with Lobster Cop, anyway. (that's a real plot point in the game btw see why I love it now??)
 His first game is The Haunted Island - A Frog Detective Game, where he is sent to an island in the middle of nowhere to investigate an alleged "ghost" that the "king" of the island, Martin the sloth has been hearing. Oh yeah, I forgot to mention, EVERYTHING IS ANIMALS in this game. All the characters, main or side. I love it. But let's not beat around the bush no more, shan't we?
 
 ## Part 2 - The Events (feel free to skip)<a name='part2'></a>
 ---
 The game begins immediately with a first-person view into the Detective's room: a sparse but quaint area, with a phone on a desk, as well as one painting on the wall of the Detective having some fun with some friends I believe are not present in none of the games; and of course, his signature magnifying glass on a nightstand lookin' thingy near the door. The Detective gets a call from his Supervisor about a case proposed to Lobster Cop, but unfortunately he is not present, so the Detective will have to do. Right here, the game is already presenting its excellent writing bare, but I will leave that part for later. 
+
+![firstss.png](/assets/frogdetective/firstss.png)
+###### *the second-best detective in town...*
 
 The Detective arrives at the Haunted Island, and interacts with the silly characters there in order to find the source of the weird noises that Martin has been hearing. After a bit of snooping around, the Detective finds out that the noises seem to be coming from the nearby cave, the entrance of which has been blocked off by big rocks. In more important news, some characters are talking about a dance competition between the Haunted Island (well as of now anyway) and another island, whose sole resident is Finley, a friend of Martin's. After talking to Larry the Lobster, (two lobsters already?? how wouldn't this game be a krillion/10) the Detective is informed that he would need explosives to proceed into the cave. This, of course, sparks a point-n'-click game style "quest" where you have to find 4 items in order to make the dynamite. These are a chunk of gold, a plate of pasta, a tube of toothpaste and... and wool? Yeah, the items are exactly what you would expect out of a game like this, tbh. 
 
@@ -36,6 +41,9 @@ The daft, literal writing of this game is BY FAR the best part about it, in my h
 
 The fucking frog in the frog game has a better understanding of boundaries than some people in real life! 
 
+![secondss.png](/assets/frogdetective/secondss.png)
+###### *the detective is a good person.*
+
 Anyways, all this results in a simple, diluted story that a child could understand, yet using that to its advantage. There's nothing wrong with a simple, one-hour, easily consumable plot. In fact, it services the game's wholesome theme. This game would be PERFECT for children.
 
 ## Part 5 - The Characters <a name='part5'></a>
@@ -49,6 +57,9 @@ No matter which character it is, you will probably find one you absolutely love.
 ## Part 6 - The Bad :( <a name='part6'></a>
 ---
 There is very little explicitly "wrong" with Frog Detective's vision. Its execution, however, does have a few small stains. For one, as I mentioned earlier, the gameplay is shallow. Even though the game might be better off with it, it's still a compromise. Speaking of gameplay, clicking through dialogue is a slog. Not because of the dialogue itself, no, the game has brilliant writing you WANT to see all of. Instead, the mechanic of dialogue is the offender. You can skip and speed up dialogue with the mouse buttons OR enter, but I found that that just didn't work, multiple times, through different characters. This is a short game, but having to see the text box still there while you're mashing the skip button is infuriating. 
+
+![thirdss.png](/assets/frogdetective/thirdss.png)
+###### *the dialogue system in action...*
 
 That's all. That should probably tell you how good this game is. It makes few mistakes.
 
