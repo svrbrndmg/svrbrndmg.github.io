@@ -1,3 +1,9 @@
+---
+layout: post
+title: Wot I Thought - The Haunted Island - A Frog Detective Game
+tag: Reviews
+---
+
 # Wot I Thought - The Haunted Island - A Frog Detective Game
 
 Like, frogs n' stuff, Scoob!
