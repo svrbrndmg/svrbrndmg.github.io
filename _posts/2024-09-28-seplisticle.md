@@ -13,6 +13,7 @@ yep, it's officially joever.
 3. [GOG Galaxy](#part3)
 4. [Krazydad](#part4)
 5. [What Now?](#part5)
+
 ## Part 1: Prelude <a name='part1'></a>
 ---
 Alright, so September was a weird month for me. It had sublime peaks and revolting valleys, but mostly the latter. In the beginning, (of the month, not the universe) I received a Steam gift card from my friend in exchange for paying him back later. Anyways, yes, that means after 6 years of due diligence on Steam as a free user, I finally sold out. The features were too alluring to resist. That 4.95 is still sitting in my Steam wallet, btw. 
