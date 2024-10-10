@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I dream of steel beams (a  poem)
-tags: Writing, Poems
+tags: Writing Poems
 ---
 
 # I dream of steel beams. (a poem)
@@ -20,11 +20,11 @@ This is a pretentious little poem I wrote about steel beams, non-living things a
 
 ###### [Act 5 - Catastrophe](#act5).
 
-###### [Afterword - What was this and what's next for you?](act0))
+###### [Afterword - What was this and what's next for you?](#afterword))
 
 ## "I dream of steel beams"
 
-<a name='Act 1 - Exposition'></a>
+<a name='act1'></a>
 How I dream of steel beams,
 
 woven webs of iron and coal,
@@ -43,7 +43,7 @@ they are concrete blocks immoral.
 
 ---
 
-<a name='Act 2 - Rise'></a>
+<a name='act2'></a>
 I dream of steel beams,
 
 and the beams I dream of call to me:
@@ -66,7 +66,7 @@ and I, skyscraper, stand still, with all the same flare."
 
 ---
 
-<a name='Act 3 - Climax'></a>
+<a name='act3'></a>
 I dream of steel beams,
 
 wrapping me in warmth,
@@ -77,7 +77,7 @@ apart of their creators faults.
 
 ---
 
-<a name='Act 4 - Fall'></a>
+<a name='act4'></a>
 I dream of steel beams,
 
 and to the beams I dream of I say:
@@ -100,7 +100,7 @@ and your lips are always shut."
 
 ---
 
-<a name='Act 5 - Catastrophe'></a>
+<a name='act5'></a>
 I no longer dream of steel beams.
 
 They are no longer novel or green.
@@ -117,7 +117,7 @@ a vulnerable building that will be one day destroyed,
 
 yet I can't help but crack a smile that beams.
 
-<a name='act0'></a>
+<a name='afterword'></a>
 ## Afterword - What was this and what's next for you?
 
 Hey all 1 of you, hope you enjoyed this poem. It came from an idea I had that architecture like buildings and the like see so much, yet they keep quiet, and they can't do anything about it. Silent witnesses of humans being terrible people, as we always are. That's where the idea for the bizarre dialogue came from, too. The building also has feelings about what it has seen and what it can't do, and it lays them bare here.
