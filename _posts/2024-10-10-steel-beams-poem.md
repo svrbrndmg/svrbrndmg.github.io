@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: post
 title: I dream of steel beams (a  poem)
-tag: Writing, Poems
+tags: Writing, Poems
 ---
 
 # I dream of steel beams. (a poem)
