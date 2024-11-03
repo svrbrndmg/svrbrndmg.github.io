@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yep, I've Resorted to Listicles. (3 things that made my September better)
-tag: Miscellaneous
+tag: Listicles
 ---
 
 # Yep, I've Resorted to Listicles. (3 things that made my September better)
